@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE project PUBLIC "-//PresagisCanada//DTD VapsXT 19.0" "file:///C:/VAPSXTDTD/VapsXT_19.dtd">
+
+<project name="FrameUnit.vprj">
+  <file name="SmallFrames.vcls" path=".\"/>
+  <file name="SmallFrames.vimp" path=".\"/>
+  <file name="MainFrames.vcls" path=".\"/>
+  <file name="MainFrames.vimp" path=".\"/>
+</project>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE project PUBLIC "-//PresagisCanada//DTD VapsXT 19.0" "file:///C:/VAPSXTDTD/VapsXT_19.dtd">
+
+<project name="DisplayFrame.vprj">
+  <file name="One.vprj" path=".\"/>
+  <file name="Two.vprj" path=".\"/>
+  <file name="Three.vprj" path=".\"/>
+</project>

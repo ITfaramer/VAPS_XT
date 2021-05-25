@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE project PUBLIC "-//PresagisCanada//DTD VapsXT 19.0" "file:///C:/VAPSXTDTD/VapsXT_19.dtd">
+
+<project name="Apps.vprj">
+  <file name="MouseMultiFrame.vcls" path=".\"/>
+  <file name="MouseMultiFrame.vimp" path=".\"/>
+</project>
