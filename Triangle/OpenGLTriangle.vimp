@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE object_implementation PUBLIC "-//PresagisCanada//DTD VapsXT 19.0" "file:///C:/VAPSXTDTD/VapsXT_19.dtd">
+
+<object_implementation impl_name="OpenGLTriangle" cpp_file_dir="CodedObject\OpenGLTriangle" header_file_dir="CodedObject\OpenGLTriangle" class="OpenGLTriangle">
+  <coded_object_implementation dll_name="vxtClsOpenGLTriangle.dll" path=".\CodedObject\OpenGLTriangle\make\Release"/>
+</object_implementation>
