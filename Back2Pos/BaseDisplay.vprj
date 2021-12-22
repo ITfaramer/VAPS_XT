@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<!DOCTYPE project PUBLIC "-//PresagisCanada//DTD VapsXT 19.0" "file:///C:/VAPSXTDTD/VapsXT_19.dtd">
-
-<project name="BaseDisplay.vprj">
-  <file name="BaseDisplay.vcls" path=".\"/>
-  <file name="BaseDisplay.vimp" path=".\"/>
-</project>
