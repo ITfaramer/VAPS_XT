@@ -18,7 +18,7 @@ Linux下基于Qt加载显示VAPS XT dll
 
 教程：<a href="https://feater.top/tools/vapsxt/3088/">Linux下编译生成VAPSXT动态链接库.so文件并动态加载</a>
 
-## MouseMultiFrame
+## MultiTouchFrame
 
 基于鼠标操作的拖拽、交互框架
 
@@ -38,4 +38,4 @@ Linux下基于Qt加载显示VAPS XT dll
 
 ## Triangle
 
-VAPS XT 加载VAPS XT DLL的工程
+VAPS XT 加载VAPS XT Coded Objects DLL的工程
